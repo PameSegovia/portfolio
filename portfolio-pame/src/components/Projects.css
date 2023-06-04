@@ -1,0 +1,47 @@
+.projects{
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	flex-wrap: wrap;
+	width: 100%;
+	height: 100%;
+	margin: 70px;
+	
+}
+.projects-conteiner{
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	flex-wrap: wrap;
+
+}
+.proj-imgbx {
+	margin-top: 20px;
+	justify-content: center;
+	align-items: center;
+  margin: 25px;
+  border: 1px solid #fff;
+  padding: 4px;
+	width: 25%;
+	height: 20%;
+}
+.btns{
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+
+
+}
+.img-proj{
+	width: 25%;
+	height: 20%;
+}
+
+.projects-p{
+  margin-top: 40px;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  letter-spacing: 2px;
+}

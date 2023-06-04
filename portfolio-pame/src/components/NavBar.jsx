@@ -1,7 +1,14 @@
-import React from 'react'
+import "./NavBar.css"
 
 export const NavBar = () => {
 	return (
-		<div>NavBar</div>
+		<div className="header-nav">
+            <nav className="navbar">
+								
+                <button className="btn"><span className="vvd"> Let’s Connect</span></button>
+            </nav>
+						<br/>
+		
+        </div>
 	)
 }

@@ -1,0 +1,132 @@
+.banner {
+  margin-top: 0;
+  padding: 260px 0 100px 0;
+  background-image: url('./assets/img/banner.png');
+  background-position: top center;
+  background-size: cover;
+  background-repeat: no-repeat;
+	height: 100%;
+}
+.banner .tagline {
+  font-weight: 700;
+  letter-spacing: 0.8px;
+  padding: 8px 10px;
+  background: linear-gradient(90.21deg, rgba(170, 54, 124, 0.5) -5.91%, rgba(74, 47, 189, 0.5) 111.58%);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  font-size: 20px;
+  margin-bottom: 16px;
+  display: inline-block;
+}
+
+.texto-animado {
+	font-size: 65px;
+  font-weight: 700;
+  letter-spacing: 0.8px;
+  line-height: 1;
+  margin-bottom: 20px;
+  display: block;
+}
+
+.letra {
+  opacity: 0;
+  animation: animacion-letras 0.5s ease-in-out forwards;
+	animation-iteration-count: 0.2s; 
+}
+
+@keyframes animacion-letras {
+  0% {
+    opacity: 0;
+    transform: translateX(-10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.texto-animado .letra:nth-child(1) {
+  animation-delay: 0.1s;
+}
+
+.texto-animado .letra:nth-child(2) {
+  animation-delay: 0.15s;
+}
+
+.texto-animado .letra:nth-child(3) {
+  animation-delay: 0.25s;
+}
+.texto-animado .letra:nth-child(4) {
+  animation-delay: 0.30s;
+}
+
+.texto-animado .letra:nth-child(5) {
+  animation-delay: 0.35s;
+}
+
+.texto-animado .letra:nth-child(6) {
+  animation-delay: 0.40s;
+}
+.texto-animado .letra:nth-child(7) {
+  animation-delay: 0.45s;
+}
+
+.texto-animado .letra:nth-child(8) {
+  animation-delay: 0.50s;
+}
+
+.texto-animado .letra:nth-child(9) {
+  animation-delay: 0.55s;
+}
+.texto-animado .letra:nth-child(10) {
+  animation-delay: 0.60s;
+}
+
+.texto-animado .letra:nth-child(11) {
+  animation-delay: 0.65s;
+}
+
+.texto-animado .letra:nth-child(12) {
+  animation-delay: 0.70s;
+}
+.texto-animado .letra:nth-child(13) {
+  animation-delay: 0.75s;
+}
+
+.texto-animado .letra:nth-child(14) {
+  animation-delay: 0.80s;
+}
+
+.texto-animado .letra:nth-child(15) {
+  animation-delay: 0.85s;
+}
+
+
+
+
+.banner p {
+  color: #B8B8B8;
+  font-size: 18px;
+  letter-spacing: 0.8px;
+  line-height: 1.5em;
+  width: 96%;
+}
+
+.banner img {
+  animation: updown 3s linear infinite;
+}
+@keyframes updown {
+    0% {
+        transform: translateY(-20px);
+    }
+    50% {
+        transform: translateY(20px);
+    }
+    100% {
+        transform: translateY(-20px);
+    }
+}
+.txt-rotate > .wrap {
+  border-right: 0.08em solid #666;
+}
+
+
