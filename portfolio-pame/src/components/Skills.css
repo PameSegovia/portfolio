@@ -1,6 +1,7 @@
 
 .skills {
   display: flex;
+  background-color: #fff;
   border-top: 3px solid #fff;
   border-bottom: 3px solid #fff;
   filter: drop-shadow(3px 3px 3px rgba(229, 206, 206, 0.5)); 

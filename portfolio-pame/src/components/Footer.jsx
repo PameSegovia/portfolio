@@ -1,4 +1,4 @@
-
+import "./Projects.css"
 
 
 export const Footer = () => {

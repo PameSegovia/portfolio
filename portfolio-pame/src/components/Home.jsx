@@ -6,7 +6,6 @@ import Skills from "./Skills"
 
 import "./Skills.css"
 import "./Projects.css"
-import { Contact } from "./Contact"
 import { Footer } from "./Footer"
 
 
@@ -29,9 +28,7 @@ const Home = () => {
 				 <p className="p">Projects</p>
 				</div>
 				<Projects/>
-			</div>
-			<br/>
-			<Contact/>
+			</div>			
 			<br/>
 			<Footer/>
 			 
