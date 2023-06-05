@@ -25,7 +25,7 @@ export const Projects = () => {
 		{
 			title: "Funko Gallery",
 			description: "Design & Development",
-			img : ('../assets/funko.png'),
+			img : ('../assets/img/funko.png'),
 			githubUrl: "https://github.com/PameSegovia/funko-gallery",
 			deployUrl: "https://funko-gallery.vercel.app/"
 			
@@ -33,7 +33,7 @@ export const Projects = () => {
 		{
 			title: "Notes",
 			description: "Design & Development",
-			img : ('../assets/notes.png'),
+			img : ('../assets/img/notes.png'),
 			githubUrl:"https://github.com/PameSegovia/block-de-notas-React",
 			deployUrl: "https://notes-three-blush.vercel.app/"
 		},

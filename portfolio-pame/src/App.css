@@ -18,34 +18,12 @@ body {
   font-family: 'Centra', sans-serif !important;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  margin: 0;
-  padding: 0;
-  line-height: normal;
-}
-
-p{
-
-}
-
-
-:hover {
-  text-decoration: none;
-}
 
 img {
   width: 100%;
   height: auto;
 }
 
-.banner {
-  margin-top: 0;
-  padding: 260px 0 100px 0;
-  background-image: ('./assets/img/banner.png');
-  background-position: top center;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
 
 
 
@@ -56,10 +34,3 @@ img {
 	}
 }
 
-p.success {
-	color: green;
-}
-
-p.danger {
-	color: red;
-}
