@@ -11,12 +11,10 @@ export const ProjectCard = ({ title, githubUrl, img, deployUrl }) => {
         <h4>{title}</h4>
         <a href={deployUrl}target="_blank" rel="noopener noreferrer">
          <p>🔗</p>          
-        </a>
-        
+        </a>        
         <a href={githubUrl}target="_blank" rel="noopener noreferrer" >
           <FontAwesomeIcon icon={faGithub} />
-        </a>
-        
+        </a>        
       </div>
 
 

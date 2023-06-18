@@ -25,12 +25,9 @@ export const Banner = () => {
 					<span class="letra">!</span>
 			</div>
 			
-			<p>Una entusiasta Front End Developer con muchas ganas de aprender y crecer en el mundo del desarrollo web.
+			<p>Una entusiasta Front End Developer con muchas ganas de aprender y crecer en el mundo del desarrollo web. 
 				Llevo poco tiempo en esta industria, pero estoy comprometida a adquirir nuevas habilidades y conocimientos para convertirme en un desarrolladora altamente competente. 
 Me encanta trabajar en proyectos creativos y desafiantes, y estoy emocionada por cada oportunidad que me permita mejorar mis habilidades y aportar valor a través de la programación.
-Mi enfoque principal está en el desarrollo web front-end, donde disfruto construyendo interfaces de usuario interactivas y amigables para los usuarios. Tengo experiencia en HTML, CSS y JavaScript, y estoy en constante aprendizaje de nuevas tecnologías y frameworks como React.
-
-
 </p>
 			
 			

@@ -2,45 +2,45 @@
 	{
 		"id":1,
 		"name": "React",
-		"img": "https://codewithsloba.com/_next/image?url=%2Fimages%2Freact.png&w=256&q=75"
+		"imgUrl": "https://codewithsloba.com/_next/image?url=%2Fimages%2Freact.png&w=256&q=75"
 	},
 
 	{
 		"id":2,
 		"name": "Html",
-		"img": "https://codewithsloba.com/_next/image?url=%2Fimages%2Fhtml.png&w=256&q=75"
+		"imgUrl": "https://codewithsloba.com/_next/image?url=%2Fimages%2Fhtml.png&w=256&q=75"
 	},
 
 	{
 		"id":3,
 		"name": "CSS",
-		"img": "https://codewithsloba.com/_next/image?url=%2Fimages%2Fcss.png&w=256&q=75"
+		"imgUrl": "https://codewithsloba.com/_next/image?url=%2Fimages%2Fcss.png&w=256&q=75"
 	},
 	{
 		"id":4,
 		"name": "JavaScript",
-		"img": "https://codewithsloba.com/_next/image?url=%2Fimages%2Fjavascript.png&w=256&q=75"
+		"imgUrl": "https://codewithsloba.com/_next/image?url=%2Fimages%2Fjavascript.png&w=256&q=75"
 	},
 
 	{
 		"id":5,
 		"name": "Java",
-		"img": "https://cdn-icons-png.flaticon.com/512/226/226777.png"
+		"imgUrl": "https://cdn-icons-png.flaticon.com/512/226/226777.png"
 	},
 	{
 		"id":6,
 		"name": "Gii",
-		"img": "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
+		"imgUrl": "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
 	},
 	{
 		"id":7,
 		"name": "Figma",
-		"img": "https://cdn2.downdetector.com/static/uploads/logo/figma2.png"
+		"imgUrl": "https://cdn2.downdetector.com/static/uploads/logo/figma2.png"
 	},
 	{
 		"id":8,
 		"name": "Scrum",
-		"img": "https://www.scrum.org/themes/custom/scrumorg_v2/assets/images/logo-250.png"
+		"imgUrl": "https://www.scrum.org/themes/custom/scrumorg_v2/assets/images/logo-250.png"
 	}
 
 

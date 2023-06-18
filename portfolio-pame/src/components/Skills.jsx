@@ -11,7 +11,7 @@ const Skills = () => {
 			
 				
 					<div className="target" key={skill.id}>
-						<img src={skill.img} alt="skill"  />
+						<img src={skill.imgUrl} alt="skill"  />
 					</div>
 	)
 	})

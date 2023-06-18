@@ -19,7 +19,7 @@ const Home = () => {
 			<div className="skills-p">
 				<p className="p">Skills</p>
 			</div>
-			<div className="skills">	
+			<div className="skills-conteiner">	
 				<Skills />
 			</div>
 			<br/>

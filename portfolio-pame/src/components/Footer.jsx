@@ -6,7 +6,7 @@ export const Footer = () => {
 <>
 
 		<div className="footer-content">
-			<p>Creado por Pamela Segovia</p>
+			<p>Gracias por llegar hasta aquí </p>
 		
 		</div>
 		</>
